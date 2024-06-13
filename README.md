@@ -10,10 +10,10 @@ Les données utilisées pour ce projet proviennent de diverses sources économiq
 <li><a href="https://www.data.gov.ma/">Portail National des données ouvertes</a></li>
 
 <h2 id="méthodologie"> 📎 Méthodologie</h2>
-<b>● Collecte des données:<b> Rassemblement de données économiques à partir de sources fiables.<br><br>
-<b>● Nettoyage des données:</b> Prétraitement pour enlever les valeurs manquantes et les anomalies.<br><br>
-<b>● Analyse Exploratoire des Données (EDA):</b> Visualisation des données pour identifier des tendances et des corrélations.<br><br>
-<b>● Modélisation:</b> Application de modèles de machine learning pour prédire la rentabilité des secteurs.<br><br>
-<b>● Évaluation:</b> Évaluation des performances des modèles et optimisation.<br><br>
+ ● Collecte des données: Rassemblement de données économiques à partir de sources fiables.<br><br>
+<b> ● Nettoyage des données:</b> Prétraitement pour enlever les valeurs manquantes et les anomalies.<br><br>
+<b> ● Analyse Exploratoire des Données (EDA):</b> Visualisation des données pour identifier des tendances et des corrélations.<br><br>
+<b> ● Modélisation:</b> Application de modèles de machine learning pour prédire la rentabilité des secteurs.<br><br>
+<b> ● Évaluation:</b> Évaluation des performances des modèles et optimisation.<br><br>
 
 
